@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Zagrożenia dla Twojej psychiki i produktywności/Poczucie izolacji i osamotnienia.htm'],s:['05','place'],p:[['05',18],['desperate',17],['job',6],['put',8],['up',12]]});
